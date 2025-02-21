@@ -16,5 +16,9 @@ NewsApp is a simple news application built using Flutter that fetches and displa
 - **Dio Package** for API requests  
 - **FutureBuilder** for dynamic data fetching  
 - **ListView.builder** for displaying news items  
-- **Error Handling** for smooth user experience  
+- **Error Handling** for smooth user experience
+  
+## Demo of the application  
+https://github.com/user-attachments/assets/9fd30fc9-d26c-461f-b9ff-1d5158b99cd0
+ 
 
